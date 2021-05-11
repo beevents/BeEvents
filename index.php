@@ -7,8 +7,8 @@
   <title>Be Events.com php</title>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-  <link rel="stylesheet" href="CCS3/styles.css">
-  <script src="J.S/codigo.js"></script>
+  <link rel="stylesheet" href="CCS/styles.css">
+  <script src="JS/codigo.js"></script>
     <script src="https://kit.fontawesome.com/c09a1a6ece.js" crossorigin="anonymous"></script>
 </head>
 
